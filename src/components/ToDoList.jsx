@@ -17,7 +17,7 @@ const ToDoList = () => {
     <div>
       <section className=' text-gray-600 body-font overflow-hidden'>
         <div className=' container px-5 py-24 mx-auto'>
-          <div className=' w-[60%]  mx-auto flex flex-wrap '>
+          <div className=' w-[80%]  mx-auto flex flex-wrap '>
             <div className=' lg:w-1/2'>
             <img src={todoimage} alt="ecommerce" className=' w-full lg:h-auto h-64 object-cover object-center rounded ' />
             </div>
